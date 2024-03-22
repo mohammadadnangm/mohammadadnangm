@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on public projects.
 - 📫 How to reach me:
 - Email:mohammadadnangm@gmail.com
+- Web:https://crudics.com
 - Web:https://adnangm.crudics.com
 
 <!---
